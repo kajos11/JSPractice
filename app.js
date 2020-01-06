@@ -1,2 +1,2 @@
-var g = G$("dada","saheb")
-g.greet().greet(true)
+var g = G$("Mouse","mahan")
+g.htmlGreeting('#greeting',true)
